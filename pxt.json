@@ -2,7 +2,8 @@
     "name": "Hello",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Hello": "github:abnerscunha/hello#b3cee1e713c815bf6e5d97b5e7d7c2cc2f4bfdce"
     },
     "files": [
         "main.blocks",
@@ -20,5 +21,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
